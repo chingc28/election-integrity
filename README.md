@@ -33,7 +33,8 @@ In a set of randomly generated numbers, the digits in the one's and ten's place 
 ## Example 
 
 The 2009 election in the country of Iran is used as an example input. This can be changed by simply changing the name of the input csv name into the desired csv. 
+Fraud_example.csv file is used for the test file
 
 ## How to use 
 
-Clone the repository into a folder with the desired csv file.
+Clone the repository into a folder with the desired csv file. 
