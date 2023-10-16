@@ -1,5 +1,7 @@
 # Election Integrity
 
+Algorithm for election integrity detection
+
 ## Purpose
 
 Fair election for all eligible citizens of voting age is the most integral part of a democratic society, it is the foundation in which democracy is bulit on. When the integrity of an election is threatened, including tactics such as:
